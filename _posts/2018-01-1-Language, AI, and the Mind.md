@@ -1,5 +1,10 @@
-Communicating, Calculating and Charting the Mind: Using Language Processing to Model the Mind as a Computer
 ---
+layout: post
+title:  "Communicating, Calculating and Charting the Mind: Using Language Processing to Model the Mind as a Computer"
+date:   2015-11-17 16:16:01 -0600
+categories: jekyll update
+---
+
 
 Language is the defining feature of the human mind, “our most sophisticated cognitive feature” (Bermudez 30). It exists innately in all humans and in no other species. Language is the biproduct of the mind continuously running algorithms to interpret the hierarchal structure of incoming data. This process is no different than what computers do in that they take in information, perform a series of purely mechanical steps, and then output a result. Alan Turing’s Church Turing Thesis states that “anything done by an algorithm can be done by a Turing Machine (computer)” (13). Terry Winograd’s SHRDLU and other language processing artificial intelligences demonstrate similarities between computers and human processing in that they use a purely mechanical process to take in inputs, manipulate data, and output results in a systematic and purely mathematical manner, thus creating a possible computer based model of how the mind processes language. 
 
