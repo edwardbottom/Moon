@@ -3,7 +3,7 @@ layout: post
 title:  "Moon Jekyll Theme"
 date:   2016-04-06
 excerpt: "An application made to help psychologists monitor their patients mental health on a daily basis"
-project: false
+project: true
 tag:
 -project
 -arch hacks
