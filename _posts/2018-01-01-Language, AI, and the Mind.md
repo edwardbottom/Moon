@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Communicating, Calculating and Charting the Mind: Using Language Processing to Model the Mind as a Computer"
-excerpt: "A paper discussing computer's ability to model language and its relation to computers ability to model human thought. "
+excerpt: "A paper discussing computers' ability to model language and its relation to their ability to model human thought. "
 date:   2015-11-17 16:16:01 -0600
 categories: jekyll update
 ---
