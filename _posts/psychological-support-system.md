@@ -1,14 +1,8 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
+title:  "Psychological Support System"
 excerpt: "An application made to help psychologists monitor their patients mental health on a daily basis"
 project: true
-tag:
--project
--arch hacks
--psychology
--java
 comments: true
 ---
 
