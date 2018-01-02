@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Assesing the Biological Validity of Neural Networks"
+excerpt: "A paper that discusses weather the successes of neural networks make them a biologically realistic model of the human mind.  "
 categories: jekyll update
 ---
 
