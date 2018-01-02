@@ -4,7 +4,7 @@ bio:                'Interdisciplinary Software Engineer'
 description:        "I have both technical skills and creative skills. I can write code and philosophy papers. "
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/logo.jpg'
 background:         'assets/img/IMG_1442.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
