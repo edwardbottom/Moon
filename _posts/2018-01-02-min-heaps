@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "Min Heaps and Heap Sort"
+excerpt: "A short post on min heaps and heap sort. "
+categories: jekyll update
+---
+Priority queue and heap sort
+
+A min heap is a type of binary tree in which the smallest value is placed at the top of the tree and then every respective value greater 
+than the above it. The child nodes must always be greater than their parents in order for the heap to be valid and for that matter useful.
+Such a data structure is typically represented in an array that is indexed to begin at one instead of zero, although it can also be done
+with pointers as often done with trees or linked lists. This is done so that the array can be organized in a way that supports the look up
+of left and right children of any given node, including the root node. This is done so that the left child is at a value of 2* the index 
+of the parent and the left child is at 2* the index of the parent + 1. Thus, the tree can be efficiently searched using recursion. A 
+sample of a min heap and its implementation in an array is shown below. 
+
+![image1](Moon/assets/img/minheap1.png){:class="img-responsive"}
+
+ 
+When an object is inserted into a min heap, the value is placed at the bottom of the heap, the next available index in an array and a 
+heap sort is called on the heap. This operation runs in O(nlog n) time and seeks to maintain the heap properties of the min heap after
+sorting. Below is an example of an insertion of 7 into our min heap. 
+ 
+![image2](Moon/assets/img/minheap2.png){:class="img-responsive"}
+
+However, simply inserting a value at the bottom of the min heap does not guarantee that the min heap property will be maintained. 
+In this case, it does not. We need to call a heap sort to maintain the heap property. Heap sort is typically done recursively. The 
+base case is when the left child is greater than the parent. In the function simply returns because the value is inits current 
+position. An example of inserting 100 into out min heap is shown below. 
+ 
+ ![image3](assets/img/minheap3.png){:class="img-responsive"}
+ 
+There are then three cases for which heap sort needs to swap values. 
+
+If there is only a left child and the heap property is not maintained, the two nodes swap. There is no case for if there is only a right node as a min heap does not allow for a priority queue to have a right child without a left child. Say we delete 100 and instead insert 19. 19 is inserted at the bottom of the tree and then must swap with its parent 20 so that the heap property is maintained. The swaps are shown below. 
+Here it is inserted at the bottom of the tree. 
+
+
+![image4](assets/img/minheap4.png){:class="img-responsive"}
+
+It is then swapped with 20. 
+
+![image5](assets/img/minheap5.png){:class="img-responsive"}
+ 
+The next case deals with if there are both a left and a right child. In that case, there are two subcases, that check if either 
+the left child is less than the parent or the right child is less than the parent and then swaps them if the case if true. 
+Lets say we want to insert 17 into the heap. 
+
+![image6](assets/img/minheap6.png){:class="img-responsive"}
+ 
+It is inserted at the bottom of the heap and then the algorithm checks to see if the heap property is maintained. It checks the left and
+right children of node 19 and finds that the property is not maintained by the right child so it swaps the right child and the parent 
+and ends with the result shown below. 
+
+![image7](assets/img/minheap7.png){:class="img-responsive"}
+ 
+The heap property is maintained, so the base case is reached and the sort ends. 
+
+When an object is removed from the min heap, the minimum or root node is removed first, heap sort is then called to maintain the heap
+property as the heap must be restructured with a new root node. However, this is nothing we have not already seen. Heap sort simply
+swaps the smallest node between the left and right children and then precedes to sort the entire heap to maintain the heap property for
+the next extraction. 
+
+This takes O(log n) time as heap sort only has to run once and not for the entire tree, thus adding an O(n) to the O(logn) because n
+nodes must be transversed. This feature is crucial in many common algorithms such as Dijkstra’s algorithm, used for finding the shortest
+path between nodes and Prim’s algorithm for finding the minimum spanning tree. In both of these algorithms, the data structure is used
+to find the node of least value in the graph and is what sperates Prim’s and Dijkstra’s from a standard breadth first search which uses
+a queue. By using a min heap, Prims and Dijkstras are able to take into account weights of edges and vertices and thus have a means
+of assigning priority to minimum values or shortest paths. Heap sort is also a simple and efficient means of sorting data. It is commonly
+taught as an early sorting algorithm and as an introduction to trees.  It has an average run time of O(nlogn) which is comparable to 
+merge sort and quick sort in most cases and allows for O(log n) look up. However, the min heap is not always the ideal data structure 
+and it does have n space complexity and always having to extract the minimum and maintain the heap property. 
+
+
+I strongly recommend going to the link below for a visualization of min heaps. 
+[min heap animation]({https://www.cs.usfca.edu/~galles/JavascriptVisual/Heap.html})
+ 
