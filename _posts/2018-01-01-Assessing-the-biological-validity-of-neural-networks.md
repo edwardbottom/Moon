@@ -110,6 +110,8 @@ currently exist are mere fractions of that of the human mind, 5,000 connections 
 develops and networks begin to operate together using local algorithms to perform many unsupervised tasks, neural networks are becoming
 increasingly more biologically valid and more like the human brain than different. 
 
-Work Cited</br>
+Work Cited
+
+
 BermuÌdez, JoseÌ Luis. Cognitive Science: An Introduction to the Science of the Mind. Cambridge University Press, 2014.
 
