@@ -41,7 +41,9 @@ SHRDLU’s success is its implementation of algorithms on the hierarchal structu
 
 Humans are often viewed as a species above all other species due to their intellectual achievements and intricate language. However, the successful implementation of language algorithms suggests language can exist without “ambiguity or intuition” (15) as in the case of SHRDLU’s language processing algorithms. Language, although complicated and seemingly unique to humans, can be modeled by a computer that systematically builds up the increasing complexity of language from simple rules about deep structure to complete well-formed formulas. The neural networks in the human mind may implement mechanical algorithms for language processing similar to those outlined by Chomsky and implemented in SHRDLU. Thus if language, the defining feature of the human mind, can be done purely mechanically, the Church-Turing Thesis would suggest the mind functions like and can be modeled by a computer. 
 
-Work Cited</br>
+Work Cited
+
+
 BermuÌdez, JoseÌ Luis. Cognitive Science: An Introduction to the Science of the Mind. Cambridge University Press, 2014.
 
 
