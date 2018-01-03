@@ -6,8 +6,6 @@ comments: false
 ---
 
 
-this is some text that should show up
-
 
 
 
