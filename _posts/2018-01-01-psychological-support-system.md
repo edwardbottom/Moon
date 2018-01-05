@@ -2,7 +2,7 @@
 layout: post
 title:  "Psychological Support System"
 excerpt: "An application made to help psychologists monitor their patients mental health on a daily basis"
-project: true
+project: false
 comments: false
 ---
 
