@@ -4,7 +4,7 @@ title:  "Weather Station"
 excerpt: "An Arduino powered weather station that displays the current weather on an LED matrix using multiplexing for
 a variety of locations read into Java with the help of WireShark and the DarkSky API."
 project: true
-comments: true
+comments: false
 ---
 
 This project was created as a culmination of a number of skills. The use of WireShark stemmed from an understanding of protocols 
