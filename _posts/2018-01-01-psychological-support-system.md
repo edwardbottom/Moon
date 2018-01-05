@@ -12,7 +12,7 @@ to check on and track their general mental health and alert the psychiatrist by 
 health occur. PSS was designed during Arch Hacks 2017 by myself and Christian Anyanwu. The goal of the project was to help psychologists, 
 which there are all too few of in the world, efficently and easily track their patients mental health. 
 
-![login screen]:pssphoto3
+![login screen](https://github.com/edwardbottom/Moon/blob/master/assets/img/pssphoto3.png?raw=true)
 
 The back end for the project was done purely in java and used the twilio api. The general idea is that the software reads and writes 
 questions to a file. These questions are read into java and send as SMS based messages to patients who respond to the questions with 
