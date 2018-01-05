@@ -4,7 +4,7 @@ title:  "GameBase Class"
 excerpt: "A series of board games including Tic-tac-toe, Gomoku, Ultimate Tic-tac-toe, and Sudoku created using 
 inheritance from a base class, generic templates, and object-oriented design across files. "
 project: true
-comments: true
+comments: false
 ---
 
 This project was created using C++ and can be run using power shell. All of the files and instructions on how to run it are linked below. 
