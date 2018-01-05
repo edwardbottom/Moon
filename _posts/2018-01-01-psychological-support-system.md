@@ -21,7 +21,7 @@ alert the psychologist with a message that the patient has had a sharp change in
 and that they should check in on them. The psychologist is given a password protected login with a modifiable series of questions and 
 the ability to add and delete patients as needed. 
 
-![home screen](https://github.com/edwardbottom/Moon/blob/master/assets/img/pss2photo.png)
+![home screen](https://github.com/edwardbottom/Moon/blob/master/assets/img/pss2photo.png?raw=true)
 
 I enjoyed working on this project and believe that it has the potential to make a big difference in mental health. There is a global shortage of mental health professionals and an ever growing need for them in the modern world. I have considered further developing this applciation and potential marketing it to psychologists as a simple means of checking in on patients regularly. A link to the project is provided below. 
 
