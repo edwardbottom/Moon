@@ -3,7 +3,7 @@ layout: post
 title:  "Stock and Data Scrapper"
 excerpt: "A Stock and Data Scrapper made using Python's Beautiful Soup "
 project: true
-comments: true
+comments: false
 ---
 
 This project came from a desire to learn to webscrape and to get better at coding in python. The project itself is not overly complicated,
