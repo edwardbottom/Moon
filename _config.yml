@@ -5,7 +5,7 @@ description:        "I have both technical skills and creative skills. I can wri
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
-background:         'assets/img/IMG_1442.jpg'
+background:         'assets/img/IMG_1442.JPG'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://edwardbottom.github.io/Moon/
