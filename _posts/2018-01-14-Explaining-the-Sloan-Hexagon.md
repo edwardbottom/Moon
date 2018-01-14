@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is Interdisciplinary Cognitive Science"
+title:  "What is Interdisciplinary Cognitive Science?"
 excerpt: "Explaining interdisciplinary studies "
 categories: jekyll update
 ---
