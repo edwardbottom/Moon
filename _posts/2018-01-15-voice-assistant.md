@@ -19,7 +19,7 @@ of web scraping to create features that could web scrape news headlines and the 
 
 However, despite being very useful for me, I found the application as it stood to be rather lifeless; it had no way of interacting back 
 with the user like Siri, Alexa, or even Cortana. So, I then began researching means of playing back sounds to give my AI a voice. I found 
-a number of options, and a text to voice program online (http://www.oddcast.com/home/demos/tts/tts_example.php ) to use as a voice. After 
+a number of options, and a [text to voice program ](http://www.oddcast.com/home/demos/tts/tts_example.php ) to use as a voice. After 
 downloading Audacity and learning the basics of sound editing, I had compiled enough responses to automate simple conversations between 
 users. 
 
