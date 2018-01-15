@@ -5,6 +5,7 @@ excerpt: "A python AI made to automate redundant tasks on the computer. "
 project: true
 comments: false
 ---
+[Link to Project](https://github.com/edwardbottom/Automated-Computer-Assistant)
 
 This project began when I found a library in python capable of turning text into speech. Naturally, I was a bit skeptical of the idea at
 first, but after testing it out myself, I found it to be very precise and wondered about its applications. I considered a few ideas, but
@@ -36,5 +37,4 @@ talk to when I am bored.
 
 ![python](https://github.com/edwardbottom/Moon/blob/master/assets/img/python%20interface.png?raw=true)
 
-[Link to Project](https://github.com/edwardbottom/Automated-Computer-Assistant)
 
