@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Defining Mental States Mechanically"
+excerpt: "An Analysis of Machine Functionalism, Causal-Theoretical Functionalism, 
+and the Implications of Solipsism"
+categories: jekyll update
+---
+
 Defining Mental States Mechanically: An Analysis of Machine Functionalism, Causal-Theoretical Functionalism, 
 and the Implications of Solipsism
 
