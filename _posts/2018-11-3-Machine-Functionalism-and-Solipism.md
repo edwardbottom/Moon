@@ -1,5 +1,5 @@
-####Defining Mental States Mechanically: An Analysis of Machine Functionalism, Causal-Theoretical Functionalism, 
-and the Implications of Solipsism####
+Defining Mental States Mechanically: An Analysis of Machine Functionalism, Causal-Theoretical Functionalism, 
+and the Implications of Solipsism
 
 I believe that Putnam’s argument for functionalism and more specifically, machine functionalism is the most plausible theory
 of the mind we examined in class. I will begin this paper by introducing Putnam’s proof for the multiple realizability of pain and
