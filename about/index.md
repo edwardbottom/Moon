@@ -25,30 +25,30 @@ Languages:
 
 
     *Java
-    *C++
+    *C++ 
     *Python
     *HTML/CSS
-    *JavaScript
-    *PHP
     *Arduino C
+    *PHP
+    *JavaScript
     
 Technologies: 
 
 
-    *Arduino and Photon Development
+    *Arduino 
+    *AWS (EC2)
+    *Particle Photon 
     *Apache
-    *Git
-    *Bash
-    *Command Line
+    *Git 
+    *Bash 
+    *Power Shell
     *Linux/Unix
+    *Flask LAMP(Apache)
     *MySQL
-    *Amazon Web Services
-    *VEX
-    *WireShark
-    *Visual Studio
-    *GitHub
-    *Bit Bucket
-    *Autodesk Inventor/Maya/Print Studio
+    *MongoDB
+    *Socket.io
+    *Node.js
+    *Autodesk Softwares
 
 
 ## Why Interdisciplinary?
