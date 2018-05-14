@@ -2,7 +2,7 @@
 layout: post
 title:  "Solving the Puzzle of Experience with Representations"
 excerpt: "A Defense of Anscombe’s Representationalism Against Valberg’s Existentialism"
-date:   2015-11-17 16:16:01 -0600
+date:   2018-04-05-16:16:01 -0600
 categories: jekyll update
 ---
 
