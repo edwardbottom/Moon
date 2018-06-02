@@ -43,7 +43,9 @@ Technologies:
     *Bash 
     *Power Shell
     *Linux/Unix
-    *Flask LAMP(Apache)
+    *Flask 
+    *React.js
+    *LAMP(Apache)
     *MySQL
     *MongoDB
     *Socket.io
