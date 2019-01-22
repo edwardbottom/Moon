@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Assesing the Biological Validity of Neural Networks"
+title:  "Thinking Consciously About Morals"
 excerpt: "A Critical Analysis and Defense of Greene’s Dual Process Theory from Both a Neuroscientific and Philosophical Perspective   "
 categories: jekyll update
 ---
